@@ -1,0 +1,13 @@
+Questions: What can you infer about the nature of these variables, as output by the info() method?
+Which variables might be suitable for regression analysis, and why? For those variables that aren't suitable for regression analysis, is there another type of statistical modeling for which they are suitable?
+
+
+Answers: None of the variables are null. All of the variables are numeric.
+Alcohol is a good choice for regression analysis as it would be dependent on the other variables
+Quality might not be suitable for regression analysis as it could be a subjective rating scale. It is also the only integer value variable. All others are decimal values.
+
+
+Questions: We can see so much about the quality variable just from this simple visualization. Answer yourself: what value do most wines have for quality? What is the minimum quality value below, and the maximum quality value? What is the range? Remind yourself of these summary statistical concepts by looking at p.49 of the AoS
+
+Answer:
+Most wines have a quality of 5 or 6. The minimum quality is 3. The maximum quality is 8. The range is 5.
